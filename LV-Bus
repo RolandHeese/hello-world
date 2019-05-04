@@ -1,0 +1,76 @@
+{
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          12.461935,
+          51.19283799999999
+        ],
+        [
+          12.396851,
+          51.198084
+        ],
+        [
+          12.221643999999998,
+          51.253541999999996
+        ],
+        [
+          11.993395,
+          51.353978999999995
+        ],
+        [
+          11.991205,
+          51.355635
+        ],
+        [
+          12.29343,
+          51.413588999999995
+        ],
+        [
+          12.479207,
+          51.425101999999995
+        ],
+        [
+          12.561929999999998,
+          51.36600799999999
+        ],
+        [
+          12.635402999999998,
+          51.27224199999999
+        ],
+        [
+          12.497524,
+          51.196039999999996
+        ],
+        [
+          12.461935,
+          51.19283799999999
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "onestop_id": "o-u30u-de~leipziger~verkehrsbetriebe",
+    "created_at": "2017-12-21T22:37:16.611Z",
+    "updated_at": "2018-06-24T02:02:40.023Z",
+    "tags": {
+      "agency_id": "LVBUS_",
+      "agency_lang": "de"
+    },
+    "created_or_updated_in_changeset_id": 10942,
+    "name": "Leipziger Verkehrsbetriebe",
+    "short_name": "LVB",
+    "website": "http://www.lvb.de",
+    "country": "DE",
+    "state": "DE-SN",
+    "metro": "Leipzig",
+    "timezone": "Europe/Berlin",
+    "represented_in_feed_onestop_ids": [
+      "f-u30u-de~leipziger~mitteldeutscher"
+    ],
+    "title": "o-u30u-de~leipziger~verkehrsbetriebe"
+  },
+  "type": "Feature",
+  "id": "o-u30u-de~leipziger~verkehrsbetriebe"
+}
